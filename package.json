@@ -52,8 +52,7 @@
 		
 	},
 	"scripts": {
-		"start": "node index.js",
-		"install": "npm install"
+		"start": "node index.js"
 	},
 	"author": "NTKhang",
 	"license": "MIT",

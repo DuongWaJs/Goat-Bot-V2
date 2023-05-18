@@ -2,7 +2,7 @@
  * @author NTKhang
  * ! The source code is written by NTKhang, please don't change the author's name everywhere. Thank you for using 
  */
-
+process.env.NODE_ENV = null;
 process.on('unhandledRejection', error => console.log(error));
 process.on('uncaughtException', error => console.log(error));
 

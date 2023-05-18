@@ -27,7 +27,7 @@
 	"nickNameBot": "GoatBot",
 	"prefix": "!",
 	"database": {
-		"type": "mongodb",
+		"type": "sqlite",
 		"uriMongodb": "mongodb+srv://duong:Duong2k6@cluster0.svjxwbo.mongodb.net/GoatBotV2?retryWrites=true&w=majority",
 		"autoSyncWhenStart": false,
 		"autoRefreshThreadInfoFirstTime": true,

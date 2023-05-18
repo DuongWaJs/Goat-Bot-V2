@@ -1,9 +1,9 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
-		"2FASecret": "",
-		"i_user": "",
+		"email": "chienminh1232006@gmail.com",
+		"password": "Duong2k6@25",
+		"2FASecret": "TPNE Y3EM A3YX VF2O EEYH QPNI 3U2B PZIN",
+		"i_user": "14.190.243.236",
 		"proxy": null,
 		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
 		"intervalGetNewCookie": 1440,
